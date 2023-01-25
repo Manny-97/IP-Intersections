@@ -96,7 +96,6 @@ Add additional notes about how to deploy this on a live system.
 
 - [@Manny-97](https://github.com/Manny-97) - Idea & Initial work
 
-See also the list of [contributors](https://github.com/kylelobo/The-Documentation-Compendium/contributors) who participated in this project.
 
 ## 🎉 Acknowledgements <a name = "acknowledgement"></a>
 
