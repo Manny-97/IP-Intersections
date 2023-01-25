@@ -1,7 +1,7 @@
 # IP-Intersections
 <p align="center">
   <a href="" rel="noopener">
- <img width=200px height=200px src="https://i.imgur.com/6wj0hh6.jpg" alt="Albacross Data Team"></a>
+ <img width=200px height=200px src="https://media.licdn.com/dms/image/C4D0BAQFvgPdsjQwdHg/company-logo_200_200/0/1625325769884?e=1682553600&v=beta&t=h1lGfwHVv3lD66FDZWixmev44BQ8AVhjyWwAr6fMpy4" alt="Albacross Data Team"></a>
 </p>
 
 <h3 align="center">Albacross Data Team</h3>
